@@ -1,7 +1,7 @@
 👋 Hi, I’m @Omarimai
 👀 I’m interested in cloud native technologies and golang programming.
 🌱 I’m currently learning more about kubernetes and its integration with cloud native technologies as a software engineer.
-💞️ I’m looking to collaborate on projects related to cloud native and golang development.
+🤝 I’m looking to collaborate on projects related to cloud native and golang development.
 📫 How to reach me: You can reach me at pcomarimai@gmail.com.
 
 <!---
